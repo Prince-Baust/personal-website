@@ -1,0 +1,43 @@
+body{
+    margin: 0;
+    font-family: 'Bebas Neue', cursive;
+}
+p{
+    font-family: 'Roboto', sans-serif;
+    color: #3E3E3E;
+    font-size: 16px;
+    margin-bottom: 60px;
+}
+div{
+    float: left;
+}
+div img{
+    width: 100%;
+}
+h1{
+    font-size: 80px;
+    margin: 30px 0;
+}
+section{
+    height: 500px;
+}
+
+.blue-highlight{
+    color: #363958;
+}
+.orange-highlight{
+    color: #FF8367;
+}
+.half-width{
+    width: 40%;
+    margin-left: 5%;
+}
+.link-btn{
+    padding: 20px 50px;
+    background-color: #FF8367;
+    box-shadow: 0 4px 4px gray;
+    color: white;
+    border-radius: 6px;
+    text-decoration: none;
+    font-family: 'Roboto', sans-serif;
+}
